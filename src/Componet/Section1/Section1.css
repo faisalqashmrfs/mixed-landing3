@@ -1,0 +1,21 @@
+.Section1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+   
+}
+ .alert-img {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: relative;
+   margin-bottom: 2.38rem;
+  
+}
+.alert-img img{
+    position: absolute;
+    bottom: 10%;
+    max-width: 100%;
+}

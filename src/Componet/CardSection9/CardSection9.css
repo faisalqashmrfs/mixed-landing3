@@ -1,0 +1,30 @@
+.CardSection9{
+    width: 22.35rem;
+    border-radius: 0.75rem;
+
+}
+.CardSection9 img{
+     max-width: 100%; 
+  
+    height: 15.8175rem;
+}
+.head-CardSection9{
+    padding: 1.25rem 1rem; 
+}
+.head-CardSection9 h5{
+    color: #282735;
+
+font-style: normal;
+font-weight: 500;
+line-height: 1.75rem; /* 126.554% */
+
+}
+.head-CardSection9 p{
+    color: #818498;
+
+font-size: 0.875rem;
+
+font-weight: 400;
+line-height: 1.25rem; /* 142.857% */
+letter-spacing: -0.00875rem;
+}

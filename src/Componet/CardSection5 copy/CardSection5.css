@@ -1,0 +1,71 @@
+.CardSection2 {
+
+  width: 17.400rem;
+  border-radius: 10px;
+}
+
+.CardSection2 img {
+  width: 17rem;
+  margin-bottom: 1.06rem;
+}
+
+.CardSection2 h6 {
+
+  color: #262556;
+  display: inline;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5rem;
+  /* 150% */
+  letter-spacing: -0.01rem;
+
+}
+
+.CardSection2 span {
+  color: #9A9EAC;
+  padding-left: 1.2rem;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5rem;
+  /* 150% */
+}
+
+.CardSection2 button {
+
+  background-clip: text;
+  font-size: 0.75rem;
+  border-radius: 6.1875rem;
+  border: 1px solid rgba(245, 212, 255, 0.24);
+  background: linear-gradient(63deg, rgba(185, 205, 255, 0.40) 0%, rgba(201, 182, 255, 0.40) 33.33%, rgba(239, 184, 255, 0.40) 66.67%, rgba(255, 210, 177, 0.40) 100%);
+  line-height: 1rem;
+  border: none;
+  cursor: pointer;
+  color: rgb(243, 182, 235);
+  font-weight: 600;
+
+
+}
+
+.CardSection2 p {
+  color: #818498;
+  font-family: Inter;
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.25rem;
+  /* 142.857% */
+  letter-spacing: -0.0175rem;
+
+}
+
+.CardSection2 strong {
+  color: #66697F;
+  font-family: Inter;
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.25rem;
+  /* 142.857% */
+}

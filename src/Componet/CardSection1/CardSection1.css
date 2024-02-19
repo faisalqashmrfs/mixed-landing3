@@ -1,0 +1,23 @@
+.CardSection1{
+  text-align: center;
+width: 14.875rem;
+border-radius: 10px;
+margin: 1.25rem;
+padding: 3.4375rem 0.6875rem;
+background: linear-gradient(180deg, rgba(240, 241, 255, 0.00) 0%, rgba(245, 245, 255, 0.99) 32%, #FFF 100%);
+}
+.CardSection1 h5{
+    color: #262556;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-top: 2rem;
+    letter-spacing: -0.01rem;
+}
+.CardSection1 p{
+    color: #6C6F89;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 400;
+   
+    letter-spacing: -0.00875rem;
+}

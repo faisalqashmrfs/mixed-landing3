@@ -1,0 +1,12 @@
+.Section9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.img-infinite{
+    max-width: 70.75rem;
+  }
+  .img-infinite img{
+  text-align: center;
+  }
